@@ -6,7 +6,7 @@ import pandas as pd
 
 # lets get thte api key from the environeent
 
-gemini_api_key = 'AIzaSyBIshz0bMrDsyWecUfO9xAGvbn9Y4JNxAo'
+gemini_api_key = 'Gemini_Api_key'
 
 # Lets configure the model
 
